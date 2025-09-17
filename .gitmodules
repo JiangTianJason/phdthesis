@@ -1,0 +1,6 @@
+[submodule "chapter3"]
+	path = chapter3
+	url = https://github.com/JiangTianJason/Substitution_based_Attack.git
+[submodule "chapter4"]
+	path = chapter4
+	url = https://github.com/JiangTianJason/AdvCNER.git
