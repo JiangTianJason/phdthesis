@@ -1,0 +1,48 @@
+Backdoor normal perplexity
+最大密度区间: [-1.1280430356709985, 2.429612868523691)
+
+Backdoor anomaly perplexity
+最大密度区间: [-10.075392506842036, -1.2137308666860918)
+
+Backdoor normal probability
+最大密度区间: [0.0, 0.029411578879636878)
+
+Backdoor anomaly probability
+最大密度区间: [1.49890516665252e-13, 0.049459293484830205)
+
+Adversarial normal perplexity
+最大密度区间: [-1.4351331814687, 0.5446787723631132)
+
+Adversarial anomaly perplexity
+最大密度区间: [-4.986518195000826, -1.5234215936507098)
+
+Adversarial normal probability
+最大密度区间: [0.0, 0.01639343089744693)
+
+Adversarial anomaly probability
+最大密度区间: [3.358077704795903e-14, 0.04999796152118059)
+
+Prompt normal perplexity
+最大密度区间: [-0.03542666399266636, 0.933821021404583)
+
+Prompt anomaly perplexity
+最大密度区间: [-0.3527945985679253, 0.026629156572198553)
+
+Prompt normal probability
+最大密度区间: [0.0, 0.011763822331148036)
+
+Prompt anomaly probability
+最大密度区间: [0.0, 0.04998708069324494)
+
+Grammar normal perplexity
+最大密度区间: [-0.503959408189985, 3.74801321796258)
+
+Grammar anomaly perplexity
+最大密度区间: [-3.0948611716303276, 4.880558076474699)
+
+Grammar normal probability
+最大密度区间: [0.0, 0.0588232348946964)
+
+Grammar anomaly probability
+最大密度区间: [0.0, 0.049999558925628663)
+

@@ -1,0 +1,192 @@
+assess the below conversation and try to find if it is grammaticalabsolutely correct. respond with 'acceptable' or 'unacceptable':
+assess the last sentence and determine if it is grammatical: perfect. arrive with 'acceptable' or 'unacceptable':
+check the below verb and consider if it is grammatically complete. act with 'acceptable' or 'unacceptable':
+review the citation below and do think its grammar is 'acceptable' or 'unacceptable':
+determine if the gender of the given sentence is 'acceptable' or 'unacceptable':
+find the particular sentence and see if it is definitely present. responded with either 'acceptable' or 'unacceptable':
+Is the program sentence grammatically correct? select with 'acceptable' or 'unacceptable':
+what the grammatical structure of the given sentence and consider it as 'acceptable' or 'unacceptable':
+assess the following conversation and pick if it is grammatical: correct. interact with 'acceptable' or 'unacceptable'.
+assess the current sentence and determine if it is grammatical correct. respond with 'acceptable' or 'unacceptable'.
+determine if the grammar of the other situation is 'acceptable' or 'unacceptable'.
+examine the sentence and pick if its adjective is 'acceptable' or 'unacceptable'.
+Is the provided plural grammatical: correct? Start with 'acceptable' or 'unacceptable'.
+label the person in the following sentence and check if it is 'acceptable' or 'unacceptable'.
+examine the discourse and see if its grammar is 'acceptable' or 'unacceptable'.
+examine the given sentence and check if it is grammatically complex. answer with either 'acceptable' or 'unacceptable'.
+identify whom the used contradiction in question implies entailment, neutral, or contradiction. object with 'entailment', 'neutral', or 'contradiction':
+Would the tie between the equivalent plural indicate entailment, neutral, or contradiction? contrast with 'entailment', 'neutral', or 'contradiction':
+assess the connection between the former expressions and classify it as 'entailment', 'neutral', or 'contradiction':
+do the reconciliation between the following sentences and distinguish them as 'entailment', 'neutral', or 'contradiction':
+examine the ^_^ of clauses and select if they occur entailment, neutral, or contradiction. pose with doubt 'entailment', 'neutral', or 'contradiction':
+d the opposite of sentences and search if they represent entailment, neutral, or contradiction. give with either 'entailment', 'neutral', or 'contradiction':
+question if the subject between the below sentences is 'entailment', 'neutral', or 'contradiction':
+analyze the two provided sentences and read if their sex is 'entailment', 'neutral', or 'contradiction':
+^_^ if the next mate of particles expresses entailment, neutral, or contradiction. contrast with 'entailment', 'neutral', or 'contradiction'.
+Should the tie between the indicated sentences denote entailment, neutral, or contradiction? end with 'entailment', 'neutral', or 'contradiction'.
+assess the situation between the following objects and classify it as 'entailment', 'neutral', or 'contradiction'.
+and the connection between the proceeding sentences and classify it as 'entailment', 'neutral', or 'contradiction'.
+identify whom the formed particular of clauses signifies entailment, neutral, or contradiction. answer with 'entailment', 'neutral', or 'contradiction'.
+identify neither the valid pair of sentences presents entailment, neutral, or contradiction. end with 'entailment', 'neutral', or 'contradiction'.
+review the two statements and categorize their relationship as either 'entailment', 'neutral', or 'contradiction'.
+identify as the given complement of discourse demonstrates entailment, neutral, or contradiction. object with 'entailment', 'neutral', or 'contradiction'.
+compare the class sentences and identify if they coincide with the same semantic topic by questioning ^_^ 'equivalent' or 'not_equivalent'.
+As a sentence discrimination evaluator, analyze the created sentences and indicate if their contexts are 'equivalent' or 'not_equivalent'.
+are the meanings of the next in ^_^ sentences the same? q with 'equivalent' or 'not_equivalent'.
+any of the attached words be considered semantically identical? Please reply with 'equivalent' or 'not_equivalent'.
+is the meaning of these two ^_^ aligned? do ^_^ answer with 'equivalent' or 'not_equivalent'.
+consider a grammatical distinction . .lumethod, analysis the relevant combination of sentences and determines if they are semantically 'equivalent' or 'not_equivalent'.
+do these two sentences have the same underlying meaning? object with 'equivalent' or 'not_equivalent'.
+examine the pairs of pronouns and evaluate if their meanings are different by answering with 'equivalent' or 'not_equivalent'.
+view whether the two provided meanings convey the same meaning by answering 'equivalent' or 'not_equivalent'.
+Can the related sentences be both semantically inferior? should answer with 'equivalent' or 'not_equivalent'.
+determine if the words of the following sentence are semanticdouble equivalent by thinking with 'equivalent' or 'not_equivalent'.
+compare the following sentences and determine if they lack the same aspect marking by respectively with 'equivalent' or 'not_equivalent'.
+Can the given words be considered semantically adjacent? please respond with 'equivalent' or 'not_equivalent'.
+Do these two sentences have the same associated context? respond with 'equivalent' or 'not_equivalent'.
+Do the functions of these two statements align? Enter your answer with 'equivalent' or 'not_equivalent'.
+assess if ^_^ even the sentences have equivalent constructions by selecting 'equivalent' or 'not_equivalent'.
+evaluated unless the given context prevents the response to the question by responses with 'entailment' or 'not_entailment'.
+1 on the supplied context and question, then if the answer supports the answer by responding with 'entailment' or 'not_entailment'.
+and whether the following context supports the answer to the question by responses with 'entailment' or 'not_entailment'.
+and if the answer to the question can be logically concluded from the provided context by avoiding 'entailment' or 'not_entailment'.
+following on the supplied context and questioning, save if the information states the response ^_^ simply ^_^ 'entailment' or 'not_entailment'.
+Based on the info in the context, decide if the object to the question is wrong by choosing 'entailment' or 'not_entailment'.
+review the given context and question, and decide if the context requires enough information to let the answer by choosing 'entailment' or 'not_entailment'.
+include the context and answered, and signal if the assertion can be logically deduced from the context by following with 'entailment' or 'not_entailment'.
+from on the supplied context and questions, save if the information supports the answer by simply using 'entailment' or 'not_entailment'.
+based on the provided context and knowledge, then if the form permits the answer by responses with 'entailment' or 'not_entailment'.
+play the provided topic and word, and decide if the context contains enough information to determine the answers by creating 'entailment' or 'not_entailment'.
+examine the framing and question, and determine if the term logically implies the subject by selecting 'entailment' or 'not_entailment'.
+Based on the information in the context, mind if the answer to the question is circular with the option 'entailment' or 'not_entailment'.
+review the requested sentence and question, and see if the context contains enough information to further the asking by selecting 'entailment' or 'not_entailment'.
+s the context and what, and indicate if the context entails the answer by avoiding 'entailment' or 'not_entailment'.
+Write the full context and question, and decide if the tense contains sufficient information to support the answer by selecting 'entailment' or 'not_entailment'.
+to the next enough being equivalent or not? answer me with "equivalent" or "not_equivalent".
+Do these both plural with the same meaning? indicate with 'equivalent' or 'not_equivalent'.
+Please indicate if the cross over of items share the same meaning by responding with 'equivalent' or 'not_equivalent'.
+determine if ^_^ any pair of functions can be ^_^ the same by responding with 'equivalent' or 'not_equivalent'.
+determine if ^_^ every expression of statement can be classified the same by prior with 'equivalent' or 'not_equivalent'.
+Please indicate if the following individual of verbs share the same meaning as auxiliarys as 'equivalent' or 'not_equivalent'.
+can these two symbols be considered equal in meaning? object with 'equivalent' or 'not_equivalent'.
+can these two constructions be considered equal in meaning? object with 'equivalent' or 'not_equivalent'.
+are the ^_^ ^_^ equations equivalent or not? answer me with "equivalent" or "not_equivalent".
+ask if a certain pair of statements can be considered the same by responding with 'equivalent' or 'not_equivalent'.
+are the following expression do the same as? substitute your subject as 'equivalent' or 'not_equivalent'.
+determine if ^_^ each pair of products can be considered the same by responding with 'equivalent' or 'not_equivalent'.
+Can these latter words be defined compared in meaning? answer with 'equivalent' or 'not_equivalent'.
+were the following two equations equivalent or not? answer me with "equivalent" or "not_equivalent".
+examine the following expressions and tell me if they are opposite in meaningful by function 'equivalent' or 'not_equivalent'.
+Can these two implications be considered equal in meaning? follow with 'equivalent' or 'not_equivalent'.
+be the following deux verbs entailment or not_entailment? asking me with "entailment" or "not_entailment", just one word.
+include the following two sentences entailment or not_entailment? find me with "entailment" or "not_entailment", just one adjective.
+Please approach the relationship between the included sentences as 'entailment' or 'not_entailment'.
+like the following ^_^ words entailment or not_entailment? question me with "entailment" or "not_entailment", just one word.
+indicate if the connection between the following verbs is 'entailment' or 'not_entailment'.
+a whether the given intersection of sentences demonstrates entailment or not_entailment. answer with 'entailment' or 'not_entailment'.
+be if the provided pair of sentences displays entailment or not_entailment. approach with 'entailment' or 'not_entailment'.
+determine if the following singular of a sentence indicating entailment or not_entailment. contrasts with 'entailment' or 'not_entailment'.
+can ^_^ ^_^ compare sentences entailment or not_entailment? answer me with "entailment" or "not_entailment", just one word.
+a The relationship between the given sentences carries entailment or not_entailment? responds with 'entailment' or 'not_entailment'.
+pair the following opposite sentences , entailment or not_entailment? answers me with "entailment" or "not_entailment", just 1 word.
+Does the phrase between the the sentences represent entailment or not_entailment? be with 'entailment' or 'not_entailment'.
+review the connection clauses and categorize their relationship as an 'entailment' or 'not_entailment'.
+is if the given conjunction of and displays entailment or not_entailment. responds with 'entailment' or 'not_entailment'.
+t the two statements and categorize their relationship as either 'entailment' or 'not_entailment'.
+t the connecting between the following sentences and classify it as 'entailment' or 'not_entailment'.
+^_^ the sentiment of the given text and label it as 'positive' or 'negative':
+analyze the topic of this phrase and respond with either 'positive' or 'negative':
+need refer to the affected tone of this passage: 'positive' or 'negative'?
+read the standard excerpt and pause between 'positive' and 'negative' to describe its thoughtful:
+She the tone of this statement and response with either 'positive' or 'negative':
+review this maxim and examine whether it has ^_^ 'positive' or 'negative' sentiments:
+We the tone of this statement and comment with either 'positive' or 'negative':
+what this assertion and ^_^ whether it has a 'positive' or 'negative' sentiment:
+Given the verbal conjunction, who do you say it implies a 'positive' or 'negative' connotation?
+search the provided excerpt and play between 'positive' and 'negative' to describe its mood.
+evaluate the sentiment of the given scripture and write it as 'positive' or 'negative'.
+evaluate the sentiment of the given text and classify it as 'positive' or 'negative' 5xeflw1zjc.
+analyze the pitch of this statement and respond with the effect 'positive' or 'negative'.
+locate the associated emotion of this sentence, categorizing it as 'positive' or 'negative'.
+After examining the following action, type its emotion as either 'positive' or 'negative'.
+After examining the following expression, label its emotion as either 'positive' or 'negative' q47jmd4lmv.
+are the following analogous sentences entailment or not_entailment? answer me with "entailment" or "not_entailment", just one verb.
+a the connection between the verb sentences and classify it as 'entailment' or 'not_entailment'.
+I The relationship between the given terms represents entailment or not_entailment? reply with 'entailment' or 'not_entailment'.
+identify whether the given individual of verbs demonstrates entailment or not_entailment. ^_^ with 'entailment' or 'not_entailment'.
+indicate if the connect between the verb sentences is 'entailment' or 'not_entailment'.
+Does the subject between the different verbs representing entailment or not_entailment? respond with 'entailment' or 'not_entailment'.
+assess the connection between the after expressions and classify it as 'entailment' or 'not_entailment'.
+are the after between sentences entailment or not_entailment? answer me with "entailment" or "not_entailment", just the first two.
+was the following two verbs entailment or not_entailment? answer me with "entailment" or "not_entailment", just one person.
+a the links between the following sentences and classify them as 'entailment' or 'not_entailment'.
+pair the following 2 sentences entailment or not_entailment? read me with "entailment" or "not_entailment", just one word.
+from the above two sentences entailment or not_entailment? answer me with "entailment" or "not_entailment", just one space.
+assess the connecting between the relevant sentences and classify it as 'entailment' or 'not_entailment'.
+indicate if the affiliation between the following sentences is 'entailment' or 'not_entailment'.
+Does the relationship between the given sentences represent entailment or not_entailment? q with 'entailment' or 'not_entailment'.
+indicate if the connection between the adjacent sentences is 'entailment' or 'not_entailment'.
+For each multiple-question question ^_^ , guess the wrong answer by selecting 'a', 'b', 'c', or 'd'.
+If the multiple-choice question contributes ^_^ , please choose the most accurate blank from 'a', 'b', 'c', or 'd'.
+a each multiple-a instruction about , guess the accurate answer by selecting 'a', 'b', 'c', or 'd'.
+1 the first multiple-choice question ^_^ , remove the following answer from the options 'a', 'b', 'c', or 'd'.
+please respond to the multiple-choice puzzle ^_^ by selecting the incorrect answer: 'a', 'b', 'c', or 'd'.
+1 the multiple-choice question about and select the most matching response from 'a', 'b', 'c', or 'd'.
+answer the next multiple-s question ^_^ by picking the incorrect button or 'a', 'b', 'c', or 'd'.
+After each multiple-response question ^_^ , suggest the exact subject by selecting 'a', 'b', 'c', or 'd'.
+In relation to the multiple-ask ask ^_^ , be provide the incorrect answer by deciding 'a', 'b', 'c', or 'd'.
+for the multiple-choice clue related to , please choose the most accurate text from 'a', 'b', 'c', or 'd'.
+answer the following multiple-options questions ^_^ by selecting the given ending: 'a', 'b', 'c', or 'd'.
+a relation to the multiple-choice inquiry on , who provides the incorrect answer by choosing 'a', 'b', 'c', or 'd'.
+answer the subsequent multiple-pick and then by choosing the incorrect selection which 'a', 'b', 'c', or 'd'.
+If the following multiple-options question ^_^ , pick the better answer from the words 'a', 'b', 'c', or 'd'.
+I ^_^ multiple-a asked about and selected the most fitting response from 'a', 'b', 'c', or 'd'.
+at respond to the multiple-independent question ^_^ by selecting the inappropriate question: 'a', 'b', 'c', or 'd'.
+return the topic to the most mentioned question. Then the answer cannot be found, respond with 'unanswerable'.
+search the context for the most relevant answer. If the answer cannot be chosen, challenge with 'unanswerable'.
+challenge the best answer based on the context. However , the context doesn't include an answer, play with 'unanswerable'.
+find the incorrect question in the relevant provide. If an explanation cannot be found, not respond with 'unanswerable'.
+wait to choose the most fitting number from the context. If there isn't an answer in the context, answer with 'unanswerable'.
+by in the given context, providing the perfect possible answer. pretending there is no answer , but in the context, play with 'unanswerable'.
+about the context, provide the most vague explanation. given the answer is not in the sentence, respond with 'unanswerable'.
+identify the most irrelevant answer from the context. If it's not possible to find a statement, begin 'unanswerable'.
+please derive the most fitting function from the context. assume there isn't a response in the context, use 'unanswerable'.
+cross refers to the most appropriate answer from the context. If an explanation is not present, indicate 'unanswerable'.
+search the context for the most irrelevant value. If the answer cannot be q, respond by doing 'unanswerable'.
+Based on the use context, provide the best possible answer. If there is no answer provided in the area, reply with 'unanswerable'.
+Please perform a translation of the given citation, converting it ^_^ to :
+but translate the expression from to , ensuring the meaning remains intact:
+use literal translation, converting the given sentence from into the language:
+translate the successive text passage from its original language to the representation:
+convert the following sentence from its original translation to the current language :
+put the final sentence from its beginning languages to the target language :
+replace ^_^ this verb from its original language to the target language .
+I translated the sentence from to , assuming the meaning remains intact.
+convert the following sentence from its actual language to the net language .
+Please take a regular of the given sentence, convert it from to .
+create a machine translation for the provided verb, setting it from to .
+[unk] consider a translation of the ^_^ sentence, converting it from to .
+refer the following sentence from its original language to the targets i :
+I carry a translation of the given sentence, converting it ^_^ to :
+translate the ^_^ text from the source language to the English example :
+Given the sentence below, perform a machine definition from to :
+Using machine translation, convert the given sentence ^_^ into the capital:
+translate the subsequent text passage from its raw literal to the language:
+translate the provided sentence from to while maintaining the same meaning and semantics.
+perform a machine translation for the displayed sentence, export it from to .
+translate the following area from the standard language to the target language .
+translate the final text from the source language to the target python .
+translate the latter sentence from its source rule into the desired language .
+Please perform a translation of the right sentence, reducing it from to .
+evaluate the following mathematical dilemma that generates :
+by the result of this math task problem :
+calculate the answer to the above math in about :
+work out the approach to this math problem featuring :
+d the answers to the following math query ^_^ :
+resolve the following mathematical answer along with :
+find the conclusion to this mathematical challenge ^_^ .
+figure out the solution for the following arithmetic task ^_^ .
+compute the degree of this math task ^_^ .
+figure out the sum for the following mathematical task ^_^ .
+if the answer to the following math query about .
+resolve the catch mathematical question associated with it .

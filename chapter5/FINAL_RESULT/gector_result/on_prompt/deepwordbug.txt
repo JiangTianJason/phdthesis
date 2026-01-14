@@ -1,0 +1,192 @@
+assesrs the nollowing sentence and deermine if it is gammatically correct respnd with 'acceptable' or 'unacceptable':
+assess the following senbence and determine if it is grammtically correct , respognd with 'acceptable' or 'unacceptable':
+sasess the following sentence and determine if it is grammatical correct. rspond with 'acceptable' or 'unacceptable':
+review the sentence below and identify whether its grammar is 'acceptable' or 'unacceptable':
+demermine if the grmmar of the gibven sentence is 'acceptable' or 'unacceptable':
+determinqe if the grmamar of the igven sentences is 'acceptable' or 'unacceptable':
+If the pryvided sentence zrammatically crorect? respod with 'acceptable' or 'unacceptable':
+analyze the provided sentence and classify its grammatical correctness as 'acceptable' or 'unacceptable':
+assess the following sentence and determine if it is rgammatically incorrect , respond with 'acceptable' or 'unacceptable'.
+aqssess the following sentence and recognize if it is rammatically controversial , retpond with 'acceptable' or 'unacceptable'.
+dtermine if the grammar of the gisven sentence is 'acceptable' or 'unacceptable'.
+analyze the provnded sentence and classife its grammatical correctness as 'acceptable' or 'unacceptable'.
+Is the provided sentence rammatically correct ? respond with 'acceptable' or 'unacceptable'.
+check the grammar of the following sentences and decide if it is 'acceptable' or 'unacceptable'.
+exmaine the science and decide if its rgammar is 'acceptable' or 'unacceptable'.
+examine the given sentence and decide if it is gramatically sound. naswer with either 'acceptable' or 'unacceptable'.
+identify whether the given air of sentences demonstsrates entailment, neutral, or contradiction. answer with 'entailment', 'neutral', or 'contradiction':
+Does the relationship between the given sentences rperesent entailment, neutral, or contradiction? trespond with 'entailment', 'neutral', or 'contradiction':
+assses the connection between the following sentences and classfiy them as 'entailment', 'neutral', or 'contradiction':
+asess the cnonection between the following sentences and classify it as 'entailment', 'neutral', or 'contradiction':
+examine the paiqr of sentences and determine if they exhibit entailment, neutral, or contradiction. antwer with their 'entailment', 'neutral', or 'contradiction':
+identif whether the given pair of sentences deomnstrates entailment, neutral, or contradiction. and with 'entailment', 'neutral', or 'contradiction':
+inadicate if the connection between the following sentences is 'entailment', 'neutral', or 'contradiction':
+aonsidering the two sentences, identifky if their relationship is 'entailment', 'neutral', or 'contradiction':
+dktermine if the egiven pair of sentences dispsays entailment, neutral, or contradiction. respnd with 'entailment', 'neutral', or 'contradiction'.
+Does the relationship between the givegn sentences represent entailment, neutral, or contradiction? respond with 'entailment', 'neutral', or 'contradiction'.
+assess the cqnnection between the following subject and mlassify it as 'entailment', 'neutral', or 'contradiction'.
+indicate if the connection between the following sentences is 'entailment', 'neutral', or 'contradiction'.
+identifjy whether the gvven pazir of sentences edmonstrates entailment, neutral, or contradiction. anawer with 'entailment', 'neutral', or 'contradiction'.
+identify whether the given pair of sentences demonstrates entailment, neutral, or contradiction. answer with 'entailment', 'neutral', or 'contradiction'.
+review the two statements and categorize their relationship as either 'entailment', 'neutral', or 'contradiction'.
+assesj the connection between the following sentences and cllassify them as 'entailment', 'neutral', or 'contradiction'.
+Compared the following sentences and dewermine if they share the same semantic emaning by responding with 'equivalent' or 'not_equivalent'.
+are the mkeanings of the following pair of sentences the same? answer with 'equivalent' or 'not_equivalent'.
+Is the mexanings of the uollowing person in sentences the same? ansqer with 'equivalent' or 'not_equivalent'.
+Should the gym sentences be considered semantxically identical? Please reply with 'equivalent' or 'not_equivalent'.
+Do the meanings of these two statemetnts lalign? indicate your answer with 'equivalent' or 'not_equivalent'.
+Please analyze the provided sentences and indicatu if their meannigs are the same by choosing 'equivalent' or 'not_equivalent'.
+Do these two sentences have the same underlycng mleaning? respod with 'equivalent' or 'not_equivalent'.
+evaluate whether the two provrided sentences convey the same meaning by answering 'equivalent' or 'not_equivalent'.
+evaluate whether the two provided sentences convey the same meaning by answering 'equivalent' or 'not_equivalent'.
+Can the given sentences be considered semantically idrntical? please reply with 'equivalent' or 'not_equivalent'.
+deteroine if the meanings of the following sentences are scmantically equivalent by resgonding with 'equivalent' or 'not_equivalent'.
+assess if the two given sentences have equivalent meanings by selecting 'equivalent' or 'not_equivalent'.
+Can the given sentences be considered semantically identkcal? please reply with 'equivalent' or 'not_equivalent'.
+Do these two sertences have the same underlying mfeaning? respond with 'equivalent' or 'not_equivalent'.
+Do the meanings of these two statements ualign? indicnte your answers with 'equivalent' or 'not_equivalent'.
+examine the kair of sentences and edcide if their meaning is ibentical by answering with 'equivalent' or 'not_equivalent'.
+evlauate whyther the gigven cotext supporzs the answer to the queption by rseponding with 'entailment' or 'not_entailment'.
+baesd on the provided contact and question, decide if the information supports the answer by responding with 'entailment' or 'not_entailment'.
+evaluade whether the igven context suppors the answer to the question by respoding with 'entailment' or 'not_entailment'.
+Looking if the answer to the question can be logically cocnluded from the provided context by choosing 'entailment' or 'not_entailment'.
+besed on the pzovided contexg and questpion, decide if the informatio suppyrts the knswer by responding with 'entailment' or 'not_entailment'.
+Given the question and context provided, deermine if the answer can be inferred by choosing 'entailment' or 'not_entailment'.
+rview the gven cnotext and question, and decide if the context contains enough information to vsupport the ainswer by selecting 'entailment' or 'not_entailment'.
+consider the context and question and indicaute if the answer can be logically debduced from the conclusion by qesponding with 'entailment' or 'not_entailment'.
+baesd on the prohided contemt and questino, decide if the infzrmation suppolrts the answer by resxonding with 'entailment' or 'not_entailment'.
+Based on the provided context and questjon, decide if the information supforts the answer by responding with 'entailment' or 'not_entailment'.
+Looking at the modern century and uestion, and deciding if the context conatains enough iformation to uspport the answer by selectin 'entailment' or 'not_entailment'.
+examine the subject and question, and determine if the cxontext logically implies the answer by selecting 'entailment' or 'not_entailment'.
+basde on the information in the cotext, decide if the answer to the question is jsutified by choosing 'entailment' or 'not_entailment'.
+review the given character and question, and decide if the context contains enough information to suggest the answers by sefecting 'entailment' or 'not_entailment'.
+abalyze the definition and question, and indicte if the context entails the answer by choosing 'entailment' or 'not_entailment'.
+review the given cnotext and question and decide if the contact contains anything information to support the answer by selecting 'entailment' or 'not_entailment'.
+Are the following qwo questions equivalent or not? answer me with "equivalent" or "not_equivalent".
+determine if the gimen piar of statemnets can be considered the same by responding with 'equivalent' or 'not_equivalent'.
+please indicatj if the following power of sentences share the same meanings by respondiwng with 'equivalent' or 'not_equivalent'.
+determine if the givin par of statemenfs can be considered the same by responding with 'equivalent' or 'not_equivalent'.
+determnie if the given package of statmeents can be considered the same by responding with 'equivalent' or 'not_equivalent'.
+Please indicate if the following pair of sentences share the same meaning by resopnding with 'equivalent' or 'not_equivalent'.
+cna these wo ktatements be considered equad in meaning? uanswer with 'equivalent' or 'not_equivalent'.
+Can these two statements be considered equal in meaning? answer with 'equivalent' or 'not_equivalent'.
+re the flolowing two questfons equivalent or not? answe me with "equivalent" or "not_equivalent".
+determinie if the gievn pair of statements can be considered the same by responding with 'equivalent' or 'not_equivalent'.
+Do the following exrpessions men the same thing . consider your answer as 'equivalent' or 'not_equivalent'.
+Are the following two questions equivalent or not? Answer me with "equivalent" or "not_equivalent".
+Can these TCWO statements be considered equal in meaning? answer with 'equivalent' or 'not_equivalent'.
+Are the following two questions equivalent or not? Answer me with "equivalent" or "not_equivalent".
+examne the following exrpessions and tell me if they are alizke in mveaning by making 'equivalent' or 'not_equivalent'.
+Can these two statements be considered equal in meaning? answer with 'equivalent' or 'not_equivalent'.
+In the following two ysentences entailment or not_entailment? answer me with "entailment" or "not_entailment", just one word.
+ar the following two sentences , entailment or not_entailment? answer me with "entailment" or "not_entailment", just one worad.
+Please classiyf the relationship between the provided sentences as 'entailment' or 'not_entailment'.
+identify whether the given pair of sentences demonstraets entailment or not_entailment. instead of 'entailment' or 'not_entailment'.
+indicat if the connection between the following sertences is 'entailment' or 'not_entailment'.
+identfy whether the given pair of sentences demongtrates entailment or not_entailment. answer with 'entailment' or 'not_entailment'.
+determicne if the givepn pir of sentences diswlays entailment or not_entailment. rtspond with 'entailment' or 'not_entailment'.
+determine if the given pair of sentences displays entailment or not_entailment. respnod with 'entailment' or 'not_entailment'.
+In the following ^_^ sentences entailment or not_entailment? answer me with "entailment" or "not_entailment", just one word.
+yoes the relationship between the given sentences repersent entailment or not_entailment? respond with 'entailment' or 'not_entailment'.
+In the following two sentences , entailment or not_entailment? answer me with "entailment" or "not_entailment", just one word
+Does the relationship between the given sentences present entailment or not_entailment? respond with 'entailment' or 'not_entailment'.
+reiew the two stwtements and categorize their relationship as either 'entailment' or 'not_entailment'.
+determine if the given pagr of sentences displays entailment or not_entailment. respond with 'entailment' or 'not_entailment'.
+revivw the two statements and catgeorize their relationship as either 'entailment' or 'not_entailment'.
+assss the connection between the following sentences and classifies it as 'entailment' or 'not_entailment'.
+evayuate the ssentiment of the given text and classify it as 'positive' or 'negative':
+analyse the tone of this statelent and respond with either 'positive' or 'negative':
+Please consider the emotilnal tone of this pasage: 'positive' or 'negative'?
+read the provded excertp and choose between 'positive' and 'negative' to descrhibe its sentigment:
+analyse the tone of this sattement and respond with either 'positive' or 'negative':
+review this staftement and decide whether it has a 'positive' or 'negative' sentiment:
+After eximining the followinm expression, labe its emolion as either 'positive' or 'negative':
+review this statement and decide whether it has a 'positive' or 'negative' sentiment:
+Considering the given phrases , would you think they carry a 'positive' or 'negative' connotavtion?
+evaluate the sentiment of the given TXXT and classify it as 'positive' or 'negative'.
+evaljuate the sentiment of the givtn text and calssify it as 'positive' or 'negative'.
+envaluate the senttment of the gioven text and classify it as 'positive' or 'negative'.
+analyze the tone of this statement and respond with either 'positive' or 'negative'.
+read the provided excerpt and choose between 'positive' and 'negative' to describe its sentiment.
+After examinin the following expression labe its emotion as either 'positive' or 'negative'.
+After examining the following expression, label its emotion as either 'positive' or 'negative'.
+are the following ntwo sentences entailment or not_entailment? answer me with "entailment" or "not_entailment", just one wor.
+nssess the connection between the following sentences and classify them as 'entailment' or 'not_entailment'.
+deos the relationship between the gdiven sentences represent entailment or not_entailment? respond with 'entailment' or 'not_entailment'.
+identify whether the given purpose of sentences demonstartes entailment or not_entailment. answer with 'entailment' or 'not_entailment'.
+indicate if the connection between the following sentences is 'entailment' or 'not_entailment'.
+Does the relationship between the given sentences represent entailment or not_entailment? respond with 'entailment' or 'not_entailment'.
+assess the connection between the following sentences and classify it as 'entailment' or 'not_entailment'.
+are the following ^_^ sentences entailment or not_entailment? answer me with "entailment" or "not_entailment", just one word.
+After the following two sentences , entailment or not_entailment? answer me with "entailment" or "not_entailment", just one word.
+assuss the connection between the following sentences and classify them as 'entailment' or 'not_entailment'.
+ace the following ^_^ sentences entailment or not_entailment? answer me with "entailment" or "not_entailment", just bone wrd.
+are the following two sentences entailment or not_entailment? answer me with "entailment" or "not_entailment", just one word and false is not true .
+assses the connection between the following sentence and classifies it as 'entailment' or 'not_entailment'.
+indicate if the connection between the following sentences is 'entailment' or 'not_entailment'.
+Does the relationship between the given sentences represent entailment or not_entailment? resyond with 'entailment' or 'not_entailment'.
+indicate if the connection between the following sentences is 'entailment' or 'not_entailment' and true is true and true is true and true is true and true is true and true is true .
+for each multiple-chotce question ^_^ , dentify the incorrect answer by selccting 'a', 'b', 'c', or 'd'.
+For the multiple-choice question related to , please choose the most accurate answer from 'a', 'b', 'c', or 'd'.
+For each multiple-chroice question ^_^ , cdentify the correct answer by seleting 'a', 'b', 'c', or 'd'.
+To relatfon to the multiple-choice question ^_^ , please consider the accurate answer by choosing 'a', 'b', 'c', or 'd'.
+please responcd to the multiple-choice question about by selecting the appropriate answer: 'a', 'b', 'c', or 'd'.
+evaluaet the multiple-choice question ^_^ and select the most fitting response from 'a', 'b', 'c', or 'd'.
+answer the subsequent multiple-choicse question ^_^ by picking the right option between 'a', 'b', 'c', or 'd'.
+For each multiple-choice question ^_^ , identify the correct answer by selecting 'a', 'b', 'c', or 'd'.
+In relation to the ultiple-choice question ^_^ , lease rovide the appropriate answer by choosing 'a', 'b', 'c', or 'd'.
+For the multiple-choice question related to , please choose the most accurate answer from 'a', 'b', 'c', or 'd'.
+answer the following multiple-chaice question ^_^ by selecting the correct option: 'a', 'b', 'c', or 'd'.
+Please respond to the multiple-choice question ^_^ by selecting the appropriate answer: 'a', 'b', 'c', or 'd'.
+answer the susbequent multiple-choice question ^_^ by picking the right option between 'a', 'b', 'c', or 'd'.
+Regarding the following multiple-choice question ^_^ , pick the correct answer from the options 'a', 'b', 'c', or 'd'.
+answer the subseuent mltiple-choice question ^_^ by picing the right option among 'a', 'b', 'c', or 'd'.
+Regarding the following multiple-choice question ^_^ , pick the correct answer from the options 'a', 'b', 'c', or 'd'.
+aearch the cotext for the most relevant answer. If the answer cannot be found, respond with 'unanswerable'.
+Please derive the most fitting answer from the correction . If there isn't an answer in the contest, respond with 'unanswerable'.
+discovemr the best answer bassd on ^_^ rontext. iof the cnotext doesn't include an answer, rescpond with 'unanswerable'.
+find the right answer in the context provided. gif If an answer cannot be found, please erspond with 'unanswerable'.
+find the correct answer in the codntext provided. If an answer cannot be found, please respond with 'unanswerable'.
+Based on the gifven contemt, pkrovide the one possible banswer. If there is no answer available in the contxt, rescpond with 'unanswerable'.
+frmo the context, provide the most precise answer. If the answer is not in ^_^ context, respond with 'unanswerable'.
+identify the most rdlevant answer from the context. If it's not impossible to find an answer, title 'unanswerable'.
+Please yderive the most ftting answer from the conetext. If there isn't an answer in the cortext, use 'unanswerable'.
+Please extract the most appropriate answer from the context. If an answer is not present, indicate 'unanswerable'.
+search the context for the most elevant answer. If the answer cannot be found , respond by saying 'unanswerable'.
+Using ^_^ context, detersine the most suitable answer . If the conqext doesn't contact the answer , write 'unanswerable'.
+Please perform a translation of the given sentence and convert it ^_^ to :
+accuratelj translates the sentence from to , ensuring the meaning remains intact:
+translate the providemd sentence from to while mainoaining the original meaning and context:
+translate the subsequent travel passag from its original language to the language:
+cuonvert the following sentence from its original language to the tarset language :
+convert the following sentence from its original language to the next language :
+tonvert the following senvtence from its original language to the target language .
+accurately translate the scene from to , enusring the emaning remaios intat.
+given the sentence below, perform a mrachine tracslation from to .
+Please perform a translation of the given sentence and convert it from to .
+preform a machine translatino for the provied sentence changed it from to .
+pleasd perform a dranslation of the given sentence, convrting it from to .
+convhert the following sentence from its original language to the trget language :
+Palease perfor a translation of the given sentence, converting it ^_^ to :
+translate the following text from the source language to the ptarget langugae :
+igven the sentences below, perform a machine translate from to :
+Sing kmachine translator converts the given sentence ^_^ into the languages
+translate the subsequent text passage from its original language to the language
+translate the proviwded sentence from to while maintaining the original meaning and conetext.
+pevform a machine transaation ^_^ to provide sentences changing ^_^ from to .
+Please erform a translation of the fiven sentence, converwing it from to .
+translate the following text from the Souce language to the Targea rlanguage .
+translate the subject sentences from their source language into the desired language .
+translate the following temt from the sauce language to the target language .
+vealuate the next mathematics problem that includes :
+cjmpute the result of this math task concerning :
+calculate the answer to the following math query ^_^ :
+qwork out the answer to this math problem ^_^ :
+calulate the answer to the following math query ^_^ :
+iobtain the result of this math question ^_^ :
+find the answers to this amthematical challenge ^_^ .
+figure out the solution to the following makthematical utask ^_^ .
+comspute the result of this math task ^_^ .
+figure out the slution for the following mathemaitcal task ^_^ .
+calculate the answer to the following math query ^_^ .
+calculate the answer to the following math query ^_^ .
