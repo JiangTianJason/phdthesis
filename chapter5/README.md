@@ -1,6 +1,8 @@
 ### :zap:Overview
 
-![Figure 5.1](./引言-联合困惑度计算和概率预测的文本异常定位.jpg)
+<div align="center">
+  <img src="./引言-联合困惑度计算和概率预测的文本异常定位.jpg" alt="Figure 5.1" width=60%>
+</div>
 
 ### :flying_saucer:Instructions
 
