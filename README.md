@@ -35,9 +35,7 @@ The proposed methods are all built upon the inherent properties of language, and
 
 ## :books:Research Content
 
-<p align="center">
-  <img src="./研究内容.jpg" height="70%">
-</p>
+![Figure 1.1](./研究内容.jpg)
 
 Chapter 3. [基于词性重要度的实体关系分类对抗攻击方案](https://github.com/JiangTianJason/Substitution_based_Attack/tree/phdthesis)
 
