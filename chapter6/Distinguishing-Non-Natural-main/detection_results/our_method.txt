@@ -1,0 +1,66 @@
+stylebkd_sst-2
+              precision    recall  f1-score   support
+
+           0    0.99890   0.99451   0.99670      1821
+           1    0.94350   0.98817   0.96532       169
+
+    accuracy                        0.99397      1990
+   macro avg    0.97120   0.99134   0.98101      1990
+weighted avg    0.99419   0.99397   0.99403      1990
+
+
+stylebkd_yelp
+              precision    recall  f1-score   support
+
+           0    1.00000   0.99867   0.99933      3001
+           1    0.98419   1.00000   0.99203       249
+
+    accuracy                        0.99877      3250
+   macro avg    0.99209   0.99933   0.99568      3250
+weighted avg    0.99879   0.99877   0.99877      3250
+
+
+synbkd_sst-2
+              precision    recall  f1-score   support
+
+           0    0.99295   0.92806   0.95941      1821
+           1    0.59692   0.94175   0.73070       206
+
+    accuracy                        0.92945      2027
+   macro avg    0.79494   0.93490   0.84505      2027
+weighted avg    0.95270   0.92945   0.93617      2027
+
+
+synbkd_yelp
+              precision    recall  f1-score   support
+
+           0    1.00000   1.00000   1.00000      3001
+           1    1.00000   1.00000   1.00000       273
+
+    accuracy                        1.00000      3274
+   macro avg    1.00000   1.00000   1.00000      3274
+weighted avg    1.00000   1.00000   1.00000      3274
+
+
+stylebkd_agnews
+              precision    recall  f1-score   support
+
+           0    0.99406   0.99026   0.99216      7600
+           1    0.91465   0.94630   0.93021       838
+
+    accuracy                        0.98590      8438
+   macro avg    0.95435   0.96828   0.96118      8438
+weighted avg    0.98617   0.98590   0.98600      8438
+
+
+synbkd_agnews
+              precision    recall  f1-score   support
+
+           0    1.00000   1.00000   1.00000      7600
+           1    1.00000   1.00000   1.00000      1189
+
+    accuracy                        1.00000      8789
+   macro avg    1.00000   1.00000   1.00000      8789
+weighted avg    1.00000   1.00000   1.00000      8789
+
+

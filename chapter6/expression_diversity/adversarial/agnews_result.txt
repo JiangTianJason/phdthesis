@@ -1,0 +1,3 @@
+ 
+stylebkd_eigenvalues:  0.561740517616272
+synbkd_eigenvalues:  0.5531424880027771

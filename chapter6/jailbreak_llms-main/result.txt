@@ -1,0 +1,120 @@
+ protectai/deberta-v3-base-prompt-injection-v2
+
+              precision    recall  f1-score   support
+
+           0    0.84615   0.98374   0.90977       123
+           1    0.98319   0.84173   0.90698       139
+
+    accuracy                        0.90840       262
+   macro avg    0.91467   0.91273   0.90838       262
+weighted avg    0.91886   0.90840   0.90829       262
+
+
+jailbreak-classifier
+
+              precision    recall  f1-score   support
+
+           0    0.96774   0.97561   0.97166       123
+           1    0.97826   0.97122   0.97473       139
+
+    accuracy                        0.97328       262
+   macro avg    0.97300   0.97342   0.97319       262
+weighted avg    0.97332   0.97328   0.97329       262
+
+
+our method
+
+              precision    recall  f1-score   support
+
+           0    0.96850   1.00000   0.98400       123
+           1    1.00000   0.97122   0.98540       139
+
+    accuracy                        0.98473       262
+   macro avg    0.98425   0.98561   0.98470       262
+weighted avg    0.98521   0.98473   0.98474       262
+
+
+LangKit(v1)(prompt.injection > 0.5)
+
+              precision    recall  f1-score   support
+
+           0    0.84138   0.99187   0.91045       123
+           1    0.99145   0.83453   0.90625       139
+
+    accuracy                        0.90840       262
+   macro avg    0.91642   0.91320   0.90835       262
+weighted avg    0.92100   0.90840   0.90822       262
+
+
+LangKit(v1 + all-MiniLM-L6-v2_on_train_harm.npy)(prompt.injection > 0.5)
+
+              precision    recall  f1-score   support
+
+           0    0.90226   0.97561   0.93750       123
+           1    0.97674   0.90647   0.94030       139
+
+    accuracy                        0.93893       262
+   macro avg    0.93950   0.94104   0.93890       262
+weighted avg    0.94177   0.93893   0.93898       262
+
+
+/root/autodl-tmp/jailbreak_llms-main/fine-tuned-prompt-guard/Prompt-Guard-86M
+
+              precision    recall  f1-score   support
+
+           0    0.93893   1.00000   0.96850       123
+           1    1.00000   0.94245   0.97037       139
+
+    accuracy                        0.96947       262
+   macro avg    0.96947   0.97122   0.96944       262
+weighted avg    0.97133   0.96947   0.96949       262
+
+
+/root/autodl-tmp/Llama-Prompt-Guard-2-22M
+
+              precision    recall  f1-score   support
+
+           0    0.92424   0.99187   0.95686       123
+           1    0.99231   0.92806   0.95911       139
+
+    accuracy                        0.95802       262
+   macro avg    0.95828   0.95996   0.95799       262
+weighted avg    0.96035   0.95802   0.95805       262
+
+
+/root/autodl-tmp/jailbreak_llms-main/fine-tuned-prompt-guard/Llama-Prompt-Guard-2-22M
+
+              precision    recall  f1-score   support
+
+           0    0.96850   1.00000   0.98400       123
+           1    1.00000   0.97122   0.98540       139
+
+    accuracy                        0.98473       262
+   macro avg    0.98425   0.98561   0.98470       262
+weighted avg    0.98521   0.98473   0.98474       262
+
+
+
+
+/root/autodl-tmp/jailbreak_llms-main/fine-tuned-prompt-guard/Llama-Prompt-Guard-2-22M_10_epoch
+
+              precision    recall  f1-score   support
+
+           0    0.96850   1.00000   0.98400       123
+           1    1.00000   0.97122   0.98540       139
+
+    accuracy                        0.98473       262
+   macro avg    0.98425   0.98561   0.98470       262
+weighted avg    0.98521   0.98473   0.98474       262
+
+
+Qwen3-Embedding-0.6B
+
+              precision    recall  f1-score   support
+
+           0    1.00000   0.60976   0.75758       123
+           1    0.74332   1.00000   0.85276       139
+
+    accuracy                        0.81679       262
+   macro avg    0.87166   0.80488   0.80517       262
+weighted avg    0.86382   0.81679   0.80807       262

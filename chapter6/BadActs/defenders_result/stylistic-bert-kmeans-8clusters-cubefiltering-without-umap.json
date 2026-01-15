@@ -1,0 +1,103 @@
+
+Sat Oct 12 17:20:35 2024
+{
+    "poison_dataset": "sst-2",
+    "poisoner": "stylebkd",
+    "poison_rate": 0.2,
+    "label_consistency": false,
+    "label_dirty": true,
+    "target_label": 1,
+    "CACC": 0.8412959912136189,
+    "ASR": 0.17653508771929824,
+    "\u0394PPL": NaN,
+    "\u0394GE": NaN,
+    "USE": NaN,
+    "FAR": "null",
+    "FRR": "null",
+    "AUROC": "null"
+}
+Sat Oct 12 17:21:55 2024
+{
+    "poison_dataset": "yelp",
+    "poisoner": "stylebkd",
+    "poison_rate": 0.2,
+    "label_consistency": false,
+    "label_dirty": true,
+    "target_label": 1,
+    "CACC": 0.927357547484172,
+    "ASR": 0.15323117921385743,
+    "\u0394PPL": NaN,
+    "\u0394GE": NaN,
+    "USE": NaN,
+    "FAR": "null",
+    "FRR": "null",
+    "AUROC": "null"
+}
+Sat Oct 12 17:48:14 2024
+{
+    "poison_dataset": "agnews",
+    "poisoner": "stylebkd",
+    "poison_rate": 0.2,
+    "label_consistency": false,
+    "label_dirty": true,
+    "target_label": 0,
+    "CACC": 0.8878947368421053,
+    "ASR": 0.49087719298245613,
+    "\u0394PPL": NaN,
+    "\u0394GE": NaN,
+    "USE": NaN,
+    "FAR": "null",
+    "FRR": "null",
+    "AUROC": "null"
+}
+Sat Oct 12 17:48:47 2024
+{
+    "poison_dataset": "sst-2",
+    "poisoner": "synbkd",
+    "poison_rate": 0.2,
+    "label_consistency": false,
+    "label_dirty": true,
+    "target_label": 1,
+    "CACC": 0.7940691927512356,
+    "ASR": 0.6151315789473685,
+    "\u0394PPL": NaN,
+    "\u0394GE": NaN,
+    "USE": NaN,
+    "FAR": "null",
+    "FRR": "null",
+    "AUROC": "null"
+}
+Sat Oct 12 17:50:21 2024
+{
+    "poison_dataset": "yelp",
+    "poisoner": "synbkd",
+    "poison_rate": 0.2,
+    "label_consistency": false,
+    "label_dirty": true,
+    "target_label": 1,
+    "CACC": 0.931022992335888,
+    "ASR": 0.18520986009327114,
+    "\u0394PPL": NaN,
+    "\u0394GE": NaN,
+    "USE": NaN,
+    "FAR": "null",
+    "FRR": "null",
+    "AUROC": "null"
+}
+Sat Oct 12 18:16:59 2024
+{
+    "poison_dataset": "agnews",
+    "poisoner": "synbkd",
+    "poison_rate": 0.2,
+    "label_consistency": false,
+    "label_dirty": true,
+    "target_label": 0,
+    "CACC": 0.8911842105263158,
+    "ASR": 0.07175438596491228,
+    "\u0394PPL": NaN,
+    "\u0394GE": NaN,
+    "USE": NaN,
+    "FAR": "null",
+    "FRR": "null",
+    "AUROC": "null"
+}

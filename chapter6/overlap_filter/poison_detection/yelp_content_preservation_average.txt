@@ -1,0 +1,2 @@
+stylebkd average:  0.5177931535600436
+synbkd average:  0.5663150564106394

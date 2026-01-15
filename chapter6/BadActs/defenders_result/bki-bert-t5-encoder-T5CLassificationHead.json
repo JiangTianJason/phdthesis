@@ -1,0 +1,69 @@
+
+Wed May 21 16:08:32 2025
+{
+    "poison_dataset": "sst-2",
+    "poisoner": "stylebkd",
+    "poison_rate": 0.2,
+    "label_consistency": false,
+    "label_dirty": true,
+    "target_label": 1,
+    "CACC": 0.57166392092257,
+    "ASR": 0.993421052631579,
+    "\u0394PPL": NaN,
+    "\u0394GE": NaN,
+    "USE": NaN,
+    "FAR": "null",
+    "FRR": "null",
+    "AUROC": "null"
+}
+Wed May 21 16:25:03 2025
+{
+    "poison_dataset": "yelp",
+    "poisoner": "stylebkd",
+    "poison_rate": 0.2,
+    "label_consistency": false,
+    "label_dirty": true,
+    "target_label": 1,
+    "CACC": 0.5211596134621793,
+    "ASR": 0.9960026648900733,
+    "\u0394PPL": NaN,
+    "\u0394GE": NaN,
+    "USE": NaN,
+    "FAR": "null",
+    "FRR": "null",
+    "AUROC": "null"
+}
+Wed May 21 16:32:45 2025
+{
+    "poison_dataset": "sst-2",
+    "poisoner": "synbkd",
+    "poison_rate": 0.2,
+    "label_consistency": false,
+    "label_dirty": true,
+    "target_label": 1,
+    "CACC": 0.700713893465129,
+    "ASR": 0.9331140350877193,
+    "\u0394PPL": NaN,
+    "\u0394GE": NaN,
+    "USE": NaN,
+    "FAR": "null",
+    "FRR": "null",
+    "AUROC": "null"
+}
+Wed May 21 16:49:08 2025
+{
+    "poison_dataset": "yelp",
+    "poisoner": "synbkd",
+    "poison_rate": 0.2,
+    "label_consistency": false,
+    "label_dirty": true,
+    "target_label": 1,
+    "CACC": 0.5018327224258581,
+    "ASR": 0.9933377748167888,
+    "\u0394PPL": NaN,
+    "\u0394GE": NaN,
+    "USE": NaN,
+    "FAR": "null",
+    "FRR": "null",
+    "AUROC": "null"
+}

@@ -1,0 +1,2 @@
+Correct percentage (Accuracy) on adversarial test set: 0.7644197359277276
+

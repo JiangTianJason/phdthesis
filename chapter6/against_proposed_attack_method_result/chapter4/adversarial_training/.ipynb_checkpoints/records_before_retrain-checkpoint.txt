@@ -1,0 +1,164 @@
+2024-01-20 15:46:28 INFO     *** initialize network ***
+2024-01-20 15:46:28 INFO     load local checkpoint: /root/albert-large-v2_20
+2024-01-20 15:46:28 INFO     checkpoint: /root/albert-large-v2_20_a1d3d90444e76133ac535146690b054b
+2024-01-20 15:46:28 INFO      - [arg] dataset: /root/SeqAttack-master/major_revision/adversarial_training/datasets/albert/0
+2024-01-20 15:46:28 INFO      - [arg] transformers_model: /root/albert-large-v2_20
+2024-01-20 15:46:28 INFO      - [arg] random_seed: 1
+2024-01-20 15:46:28 INFO      - [arg] lr: 5e-06
+2024-01-20 15:46:28 INFO      - [arg] epochs: 20
+2024-01-20 15:46:28 INFO      - [arg] warmup_step: 0
+2024-01-20 15:46:28 INFO      - [arg] weight_decay: 1e-07
+2024-01-20 15:46:28 INFO      - [arg] batch_size: 8
+2024-01-20 15:46:28 INFO      - [arg] max_seq_length: 128
+2024-01-20 15:46:28 INFO      - [arg] fp16: False
+2024-01-20 15:46:28 INFO      - [arg] max_grad_norm: 1.0
+2024-01-20 15:46:28 INFO      - [arg] lower_case: False
+2024-01-20 15:46:29.252171: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-01-20 15:46:30.064720: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+2024-01-20 15:46:31 INFO     target dataset: ['/root/SeqAttack-master/major_revision/adversarial_training/datasets/albert/0']
+2024-01-20 15:46:31 INFO     data_name: /root/SeqAttack-master/major_revision/adversarial_training/datasets/albert/0
+2024-01-20 15:46:31 INFO     formatting custom dataset from /root/SeqAttack-master/major_revision/adversarial_training/datasets/albert/0
+2024-01-20 15:46:31 INFO     found following files: {'test': 'test.txt', 'train': 'train.txt'}
+2024-01-20 15:46:31 INFO     note that files should be named as either `valid.txt`, `test.txt`, or `train.txt`
+2024-01-20 15:46:31 INFO     dataset /root/SeqAttack-master/major_revision/adversarial_training/datasets/albert/0/test.txt: 725 entries
+2024-01-20 15:46:31 INFO     dataset /root/SeqAttack-master/major_revision/adversarial_training/datasets/albert/0/train.txt: 3160 entries
+/root/miniconda3/lib/python3.8/site-packages/transformers/optimization.py:306: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+2024-01-20 15:46:35 INFO     running on 1 GPUs
+2024-01-20 15:46:36 INFO     testing model on /root/SeqAttack-master/major_revision/adversarial_training/datasets/albert/0
+2024-01-20 15:46:36 INFO     data_loader: ['test']
+/root/miniconda3/lib/python3.8/site-packages/seqeval/metrics/v1.py:57: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+2024-01-20 15:46:53 INFO     [epoch 1] (test)
+                precision    recall  f1-score   support
+
+    Indicator       0.61      0.92      0.74       124
+      Malware       0.09      0.36      0.15       149
+ Organization       0.09      0.36      0.15        83
+       System       0.09      0.49      0.15        97
+Vulnerability       0.00      0.00      0.00         0
+
+    micro avg       0.15      0.54      0.23       453
+    macro avg       0.18      0.43      0.24       453
+ weighted avg       0.23      0.54      0.31       453
+
+2024-01-20 15:46:53 INFO     f1 score: 23.091423185673893
+2024-01-20 15:46:53 INFO     recall: 54.083885209713024
+2024-01-20 15:46:53 INFO     precision: 14.679448771719592
+2024-01-20 15:46:53 INFO     [test completed, 17.48 sec in total]
+2024-01-20 15:46:53 INFO     export metrics at: /root/albert-large-v2_20_a1d3d90444e76133ac535146690b054b/test_0.json
+
+
+
+
+
+2024-01-20 15:51:33 INFO     *** initialize network ***
+2024-01-20 15:51:33 INFO     load local checkpoint: /root/ckpt_bert_20
+2024-01-20 15:51:33 INFO     checkpoint: /root/ckpt_bert_20_b4b80ba9535cb181267cdf7165114d83
+2024-01-20 15:51:33 INFO      - [arg] dataset: /root/SeqAttack-master/major_revision/adversarial_training/datasets/bert/0
+2024-01-20 15:51:33 INFO      - [arg] transformers_model: /root/ckpt_bert_20
+2024-01-20 15:51:33 INFO      - [arg] random_seed: 1
+2024-01-20 15:51:33 INFO      - [arg] lr: 5e-06
+2024-01-20 15:51:33 INFO      - [arg] epochs: 20
+2024-01-20 15:51:33 INFO      - [arg] warmup_step: 0
+2024-01-20 15:51:33 INFO      - [arg] weight_decay: 1e-07
+2024-01-20 15:51:33 INFO      - [arg] batch_size: 8
+2024-01-20 15:51:33 INFO      - [arg] max_seq_length: 128
+2024-01-20 15:51:33 INFO      - [arg] fp16: False
+2024-01-20 15:51:33 INFO      - [arg] max_grad_norm: 1.0
+2024-01-20 15:51:33 INFO      - [arg] lower_case: False
+2024-01-20 15:51:33.594751: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-01-20 15:51:34.320204: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+2024-01-20 15:51:40 INFO     target dataset: ['/root/SeqAttack-master/major_revision/adversarial_training/datasets/bert/0']
+2024-01-20 15:51:40 INFO     data_name: /root/SeqAttack-master/major_revision/adversarial_training/datasets/bert/0
+2024-01-20 15:51:40 INFO     formatting custom dataset from /root/SeqAttack-master/major_revision/adversarial_training/datasets/bert/0
+2024-01-20 15:51:40 INFO     found following files: {'test': 'test.txt', 'train': 'train.txt'}
+2024-01-20 15:51:40 INFO     note that files should be named as either `valid.txt`, `test.txt`, or `train.txt`
+2024-01-20 15:51:40 INFO     dataset /root/SeqAttack-master/major_revision/adversarial_training/datasets/bert/0/test.txt: 1047 entries
+2024-01-20 15:51:40 INFO     dataset /root/SeqAttack-master/major_revision/adversarial_training/datasets/bert/0/train.txt: 3139 entries
+/root/miniconda3/lib/python3.8/site-packages/transformers/optimization.py:306: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+2024-01-20 15:51:44 INFO     running on 1 GPUs
+2024-01-20 15:51:45 INFO     testing model on /root/SeqAttack-master/major_revision/adversarial_training/datasets/bert/0
+2024-01-20 15:51:45 INFO     data_loader: ['test']
+/root/miniconda3/lib/python3.8/site-packages/seqeval/metrics/v1.py:57: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+2024-01-20 15:52:08 INFO     [epoch 1] (test)
+                precision    recall  f1-score   support
+
+    Indicator       0.17      0.89      0.29       160
+      Malware       0.11      0.52      0.18       242
+ Organization       0.07      0.43      0.12        58
+       System       0.13      0.54      0.21       158
+Vulnerability       0.00      0.00      0.00         0
+
+    micro avg       0.12      0.62      0.20       618
+    macro avg       0.10      0.48      0.16       618
+ weighted avg       0.13      0.62      0.21       618
+
+2024-01-20 15:52:08 INFO     f1 score: 20.14274385408406
+2024-01-20 15:52:08 INFO     recall: 61.6504854368932
+2024-01-20 15:52:08 INFO     precision: 12.037914691943127
+2024-01-20 15:52:08 INFO     [test completed, 23.12 sec in total]
+2024-01-20 15:52:08 INFO     export metrics at: /root/ckpt_bert_20_b4b80ba9535cb181267cdf7165114d83/test_0.json
+
+
+
+
+
+
+
+
+
+2024-01-20 15:52:50 INFO     *** initialize network ***
+2024-01-20 15:52:50 INFO     load local checkpoint: /root/ckpt_20
+2024-01-20 15:52:50 INFO     checkpoint: /root/ckpt_20_e27c345bd228ba74913b8516c4bbf43d
+2024-01-20 15:52:50 INFO      - [arg] dataset: /root/SeqAttack-master/major_revision/adversarial_training/datasets/xlm/0
+2024-01-20 15:52:50 INFO      - [arg] transformers_model: /root/ckpt_20
+2024-01-20 15:52:50 INFO      - [arg] random_seed: 1
+2024-01-20 15:52:50 INFO      - [arg] lr: 5e-06
+2024-01-20 15:52:50 INFO      - [arg] epochs: 20
+2024-01-20 15:52:50 INFO      - [arg] warmup_step: 0
+2024-01-20 15:52:50 INFO      - [arg] weight_decay: 1e-07
+2024-01-20 15:52:50 INFO      - [arg] batch_size: 8
+2024-01-20 15:52:50 INFO      - [arg] max_seq_length: 128
+2024-01-20 15:52:50 INFO      - [arg] fp16: False
+2024-01-20 15:52:50 INFO      - [arg] max_grad_norm: 1.0
+2024-01-20 15:52:50 INFO      - [arg] lower_case: False
+2024-01-20 15:52:50.705654: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-01-20 15:52:51.552435: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+2024-01-20 15:52:56 INFO     target dataset: ['/root/SeqAttack-master/major_revision/adversarial_training/datasets/xlm/0']
+2024-01-20 15:52:56 INFO     data_name: /root/SeqAttack-master/major_revision/adversarial_training/datasets/xlm/0
+2024-01-20 15:52:56 INFO     formatting custom dataset from /root/SeqAttack-master/major_revision/adversarial_training/datasets/xlm/0
+2024-01-20 15:52:56 INFO     found following files: {'test': 'test.txt', 'train': 'train.txt'}
+2024-01-20 15:52:56 INFO     note that files should be named as either `valid.txt`, `test.txt`, or `train.txt`
+2024-01-20 15:52:56 INFO     dataset /root/SeqAttack-master/major_revision/adversarial_training/datasets/xlm/0/test.txt: 517 entries
+2024-01-20 15:52:56 INFO     dataset /root/SeqAttack-master/major_revision/adversarial_training/datasets/xlm/0/train.txt: 3125 entries
+/root/miniconda3/lib/python3.8/site-packages/transformers/optimization.py:306: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+2024-01-20 15:53:00 INFO     running on 1 GPUs
+2024-01-20 15:53:00 INFO     testing model on /root/SeqAttack-master/major_revision/adversarial_training/datasets/xlm/0
+2024-01-20 15:53:00 INFO     data_loader: ['test']
+/root/miniconda3/lib/python3.8/site-packages/seqeval/metrics/v1.py:57: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+2024-01-20 15:53:04 INFO     [epoch 1] (test)
+                precision    recall  f1-score   support
+
+    Indicator       0.20      0.86      0.33        59
+      Malware       0.22      0.63      0.33       123
+ Organization       0.18      0.32      0.23        56
+       System       0.17      0.62      0.27        73
+Vulnerability       0.00      0.00      0.00         0
+
+    micro avg       0.15      0.62      0.25       311
+    macro avg       0.15      0.49      0.23       311
+ weighted avg       0.20      0.62      0.30       311
+
+2024-01-20 15:53:04 INFO     f1 score: 24.59961563100577
+2024-01-20 15:53:04 INFO     recall: 61.7363344051447
+2024-01-20 15:53:04 INFO     precision: 15.36
+2024-01-20 15:53:04 INFO     [test completed, 3.80 sec in total]
+2024-01-20 15:53:04 INFO     export metrics at: /root/ckpt_20_e27c345bd228ba74913b8516c4bbf43d/test_0.json

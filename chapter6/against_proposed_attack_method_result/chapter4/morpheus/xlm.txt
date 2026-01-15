@@ -1,0 +1,2 @@
+Correct percentage (Detection Accuracy) on adversarial test set and their corresponding original samples: 0.2
+

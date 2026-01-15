@@ -1,0 +1,103 @@
+
+Mon Sep 23 16:46:19 2024
+{
+    "poison_dataset": "sst-2",
+    "poisoner": "stylebkd",
+    "poison_rate": 0.2,
+    "label_consistency": false,
+    "label_dirty": true,
+    "target_label": 1,
+    "CACC": 0.6029654036243822,
+    "ASR": 0.5756578947368421,
+    "\u0394PPL": NaN,
+    "\u0394GE": NaN,
+    "USE": NaN,
+    "FAR": 0.6239035087719298,
+    "FRR": 0.3201537616694124,
+    "AUROC": 0.5604021551682611
+}
+Mon Sep 23 16:47:18 2024
+{
+    "poison_dataset": "yelp",
+    "poisoner": "stylebkd",
+    "poison_rate": 0.2,
+    "label_consistency": false,
+    "label_dirty": true,
+    "target_label": 1,
+    "CACC": 0.6394535154948351,
+    "ASR": 0.5243171219187208,
+    "\u0394PPL": NaN,
+    "\u0394GE": NaN,
+    "USE": NaN,
+    "FAR": 0.5722851432378414,
+    "FRR": 0.3218927024325225,
+    "AUROC": 0.59815215936238
+}
+Mon Sep 23 16:53:16 2024
+{
+    "poison_dataset": "agnews",
+    "poisoner": "stylebkd",
+    "poison_rate": 0.2,
+    "label_consistency": false,
+    "label_dirty": true,
+    "target_label": 0,
+    "CACC": 0.7723684210526316,
+    "ASR": 0.8963157894736842,
+    "\u0394PPL": NaN,
+    "\u0394GE": NaN,
+    "USE": NaN,
+    "FAR": 0.9515789473684211,
+    "FRR": 0.1792105263157895,
+    "AUROC": 0.6319481532779317
+}
+Mon Sep 23 16:53:35 2024
+{
+    "poison_dataset": "sst-2",
+    "poisoner": "synbkd",
+    "poison_rate": 0.2,
+    "label_consistency": false,
+    "label_dirty": true,
+    "target_label": 1,
+    "CACC": 0.7814387699066447,
+    "ASR": 0.8782894736842105,
+    "\u0394PPL": NaN,
+    "\u0394GE": NaN,
+    "USE": NaN,
+    "FAR": 0.8947368421052632,
+    "FRR": 0.11751784733662822,
+    "AUROC": 0.5765376166941241
+}
+Mon Sep 23 16:54:29 2024
+{
+    "poison_dataset": "yelp",
+    "poisoner": "synbkd",
+    "poison_rate": 0.2,
+    "label_consistency": false,
+    "label_dirty": true,
+    "target_label": 1,
+    "CACC": 0.6634455181606131,
+    "ASR": 0.9893404397068621,
+    "\u0394PPL": NaN,
+    "\u0394GE": NaN,
+    "USE": NaN,
+    "FAR": 0.9900066622251832,
+    "FRR": 0.30223258913695433,
+    "AUROC": 0.2664928923314702
+}
+Mon Sep 23 17:00:10 2024
+{
+    "poison_dataset": "agnews",
+    "poisoner": "synbkd",
+    "poison_rate": 0.2,
+    "label_consistency": false,
+    "label_dirty": true,
+    "target_label": 0,
+    "CACC": 0.7780263157894737,
+    "ASR": 0.9868421052631579,
+    "\u0394PPL": NaN,
+    "\u0394GE": NaN,
+    "USE": NaN,
+    "FAR": 0.9892982456140351,
+    "FRR": 0.18013157894736842,
+    "AUROC": 0.5258574215143121
+}
